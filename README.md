@@ -1,5 +1,3 @@
-# 083_UiPath_Payroll_Processing
-083_UiPath_Payroll_Processing
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
